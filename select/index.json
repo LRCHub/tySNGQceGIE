@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "じょいふる",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2026-02-13T05:18:21.962592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_じょいふる_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/02_じょいふる_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/03_じょいふる_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/04_じょいふる_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": true,
+      "path": "select/05_じょいふる_高木さん_(高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/06_じょいふる_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/07_じょいふる_高木さん(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/08_じょいふる_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "じょいふる - Joyfull",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/09_じょいふる_-_Joyfull_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "堀裕子",
+      "has_synced": true,
+      "path": "select/10_じょいふる_堀裕子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "じょいふる",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/11_じょいふる_生物股长.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "じょいふる",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_じょいふる_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
